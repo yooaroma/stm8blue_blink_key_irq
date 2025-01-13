@@ -1,9 +1,9 @@
-stm8blue_blink_key,stm8blue에서 key 입력을 받아 엘이디 제어,#stm8blue,#yoohappyedu,#유행복한교육,#stm8s103
+stm8blue_blink_key_irq,stm8blue에서 key 입력을 받아 엘이디 제어,#stm8blue,#yoohappyedu,#유행복한교육,#stm8s103
 
 
 stm8blue에서 key 입력을 받아 엘이디 제어
-프로젝트 설명 : https://yooaroma.com/stm8blue_blink_key.html
-프로그램 소스 : https://github.com/yooaroma/stm8blue_blink_key
+프로젝트 설명 : https://yooaroma.com/stm8blue_blink_key_irq.html
+프로그램 소스 : https://github.com/yooaroma/stm8blue_blink_key_irq
 필요한 툴
 1. vscode
 2. make

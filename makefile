@@ -2,7 +2,8 @@
 # yooaroma : 20241224
 # https://www.st.com/en/microcontrollers-microprocessors/stm8s103f3.html
 # https://www.st.com/resource/en/datasheet/stm8s103f3.pdf
-# https://github.com/yooaroma/stm8blue_blink
+# https://www.st.com/resource/en/reference_manual/rm0016-stm8s-series-and-stm8af-series-8bit-microcontrollers-stmicroelectronics.pdf
+# https://github.com/yooaroma/stm8blue_blink_key_irq
 
 
 CC = sdcc
